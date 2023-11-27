@@ -1,4 +1,4 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-11-27 16:24:24
+! Last Modified: 2023-11-28 00:24:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
