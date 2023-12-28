@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2023-12-28 16:22:27
+! Last Modified: 2023-12-29 00:22:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: fenliu (https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list)
 host-suffix, moonwish.com.cn, reject
@@ -5462,7 +5462,6 @@ host-suffix, pj39330.com, reject
 host-keyword, bngpt, reject
 host, richmanrules.jxedt.com, reject
 host-suffix, med.heyzap.com, reject
-;host-keyword, is.snssdk.com, reject
 host-suffix, fs.uc.nearme.com.cn, reject
 host-suffix, m.gxkyl.com, reject
 host-suffix, cdn.xianliao.me, reject
