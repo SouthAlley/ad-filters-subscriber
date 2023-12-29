@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-12-29 16:21:28
+! Last Modified: 2023-12-30 00:25:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: fenliu (https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list)
 host-suffix, moonwish.com.cn, reject
