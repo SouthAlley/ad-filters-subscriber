@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2024-01-01 00:21:43
+! Last Modified: 2024-01-01 09:25:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: fenliu (https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list)
 host-suffix, moonwish.com.cn, reject
@@ -3355,6 +3355,7 @@ host-suffix, free.aol.com, reject
 host-suffix, 2.bashenghuo.com, reject
 host-suffix, spade.twitch.tv, reject
 host-suffix, lu.sogou.com, reject
+;host-suffix, oss-accelerate.aliyuncs.com, reject
 host-suffix, js9318.bllzgqbyp.com, reject
 host-suffix, optimized-by.rubiconproject.com, reject
 host-suffix, pat.farvd.com, reject
@@ -7296,7 +7297,6 @@ host-suffix, wwis-dubc1-vip60.adobe.com, reject
 host-suffix, bllbaby.cn, reject
 host-suffix, adadmin.house365.com, reject
 host-suffix, m.tuopp.com, reject
-host-suffix, oss-accelerate.aliyuncs.com, reject
 host-suffix, ereg.adobe.com, reject
 host-suffix, static-xl9-ssl.xunlei.com, reject
 host-suffix, wxsnsdy.tc.qq.com, reject
