@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2024-01-05 16:22:48
+! Last Modified: 2024-01-06 00:22:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: fenliu (https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list)
 host-suffix, moonwish.com.cn, reject
@@ -237,6 +237,7 @@ host-suffix, vatrack.hinet.net, reject
 host-suffix, weld.iefsf.com, reject
 host-suffix, kualianyingxiao.cn, reject
 host-suffix, chebse.com, reject
+host-suffix, tappx.com, reject
 host-suffix, update.mobile.kugou.com, reject
 host-suffix, rd.da.netease.com, reject
 host-suffix, shibeiou.com, reject
@@ -981,6 +982,7 @@ host-suffix, adx.yiche.com, reject
 host-suffix, nativeapp.toutiao.com, reject
 host-suffix, mobgi.com, reject
 IP-CIDR, 101.251.211.235/32, reject
+;host-keyword, volc.com, reject
 host-suffix, guitarpro.cc, reject
 host-suffix, bayescom.com, reject
 host-suffix, flashtalking.com, reject
@@ -3536,7 +3538,6 @@ host-suffix, themis.yahoo.com, reject
 host-suffix, a.solarmovie.is, reject
 host-suffix, ajaxcdn.org, reject
 host-suffix, czf.cchfjz.com, reject
-host-suffix, meituan.xn--io0a7i, reject
 host-suffix, xxwkjl.com, reject
 host-suffix, imgad0.3conline.com, reject
 host-suffix, m.027blzs.com, reject
@@ -4937,6 +4938,7 @@ host-suffix, m1.baidu.com, reject
 host-suffix, cm.game.bilibili.com, reject
 host-suffix, aa.zldh123.com, reject
 host-suffix, pl14369502.puserving.com, reject
+host-keyword, volces.com, reject
 host-suffix, sync.intentiq.com, reject
 host-keyword, insurance.lianwifi.com, reject
 host-suffix, wx.houyi.baofeng.net, reject
@@ -6447,6 +6449,7 @@ host-suffix, pvlog.hd.baofeng.com, reject
 host-suffix, ykbei.com, reject
 host-suffix, p.vq6nsu.cn, reject
 host-suffix, v.e7002.com, reject
+host-suffix, ad.e.waimai.sankuai.com, reject
 host-suffix, 88cncc.com, reject
 host-suffix, lqmohun.com, reject
 host-suffix, h.holder.com.ua, reject
@@ -7594,6 +7597,7 @@ host-suffix, lhafy.com, reject
 host-suffix, sync.adotmob.com, reject
 host-suffix, s.hzht666.com, reject
 host-suffix, c1.wkanx.com, reject
+host-suffix, mads.meituan.com, reject
 host-suffix, cpatrk.net, reject
 host-suffix, au.youmi.net, reject
 host-suffix, global.msads.net, reject
@@ -7968,6 +7972,7 @@ host-suffix, yunbofangbt.com, reject
 host-suffix, k3bos.com, reject
 host-suffix, wapx.com, reject
 host-suffix, pcbrowser.dd.qq.com, reject
+host-suffix, dreport.meituan.net, reject
 host-suffix, vpon.com, reject
 host-suffix, st.targetix.net, reject
 host-suffix, yzaosite.com, reject
@@ -8242,6 +8247,7 @@ host-suffix, rsas.szzek.com, reject
 host-suffix, a.cn.duoyi.com, reject
 host-suffix, 6a4cc.luvbq.com, reject
 host-suffix, e.mmkvi.com, reject
+host-keyword, volccdn.com, reject
 host-suffix, v12-r0566gbscjw.z.irs01.com, reject
 host-suffix, sonomoyo.com, reject
 host-suffix, c.uaa.iqiyi.com, reject
@@ -8927,6 +8933,7 @@ host-suffix, www-777563.com, reject
 host-suffix, webkooo.com, reject
 host-suffix, dev-push.m.youku.com, reject
 host-keyword, applogapi.autohome.com, reject
+host-suffix, d.meituan.net, reject
 host-suffix, vg02h8z1ul.me, reject
 host-suffix, api.jr.mi.com, reject
 host-suffix, media8.cn, reject
@@ -8999,6 +9006,7 @@ host-suffix, cbs.wondershare.com, reject
 host-suffix, ping.chartbeat.net, reject
 host-suffix, site.img.4tube.com, reject
 host-suffix, bd2.home8080.cn, reject
+host-suffix, meituan.xn, reject
 host-suffix, ag.nukefans.net, reject
 host-suffix, duanat.com, reject
 host-suffix, myzwqwe12.com, reject
