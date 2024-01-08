@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2024-01-08 16:24:06
+! Last Modified: 2024-01-09 00:24:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: fenliu (https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list)
 host-suffix, moonwish.com.cn, reject
@@ -4810,6 +4810,7 @@ host-suffix, 1.cjcp.cn, reject
 host-suffix, tapinfluence.com, reject
 host-suffix, lucting.cn, reject
 host-suffix, codesoftchina.com, reject
+;host-suffix, ct.xiaojukeji.com, reject
 host-suffix, m.neijh.com, reject
 host-suffix, hilltopads.net, reject
 host-suffix, sync-eu.exe.bid, reject
@@ -6755,7 +6756,6 @@ host-suffix, lyapi.1391.com, reject
 host-suffix, tw13b093.sandai.net, reject
 host-suffix, zamar.cn, reject
 host-suffix, 1017.cn, reject
-host-suffix, ct.xiaojukeji.com, reject
 host-suffix, ccclub.cmbchina.com, reject
 host-suffix, cdn.ndapp.com, reject
 host-suffix, calopenupdate.comm.miui.com, reject
