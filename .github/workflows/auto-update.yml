@@ -8,8 +8,6 @@ on:
       - '.devcontainer/**'
       - 'LICENSE'
     branches: [ main ]
-  schedule:
-    - cron: 0 */8 * * *
   workflow_dispatch:
 
 env:
